@@ -1,0 +1,23 @@
+SALTWRIGHTS MASTER APP UPDATE
+
+This package uses the latest app version containing the SKU-code reuse fix,
+and adds the correct Saltwrights home-screen icon using the logo supplied.
+
+Upload these SIX individual files to the ROOT of your GitHub repository:
+- index.html
+- manifest.json
+- icon-192.png
+- icon-512.png
+- apple-touch-icon.png
+- favicon-32.png
+
+Do not upload the ZIP itself.
+
+When GitHub asks, replace the existing index.html and any older icon files,
+then click Commit changes.
+
+After GitHub Pages updates:
+1. Delete the existing Saltwrights icon from the iPhone Home Screen.
+2. Open the app in Safari.
+3. Refresh the page.
+4. Tap Share > Add to Home Screen.
